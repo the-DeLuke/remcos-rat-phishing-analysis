@@ -1,7 +1,7 @@
 # Phishing Email & Malware Incident Report
 ### Remcos RAT Delivered via Spoofed Purchase-Order Phishing Email
 
-**Analyst:** M N Pareed Noubinsha  
+**Analyst:** Dany Geo Johnson  
 **Date of Analysis:** September 6, 2026  
 **Classification:** TLP:CLEAR — Educational / Portfolio Project  
 **Source Sample:** Public sample courtesy of [malware-traffic-analysis.net](https://malware-traffic-analysis.net) (2026-08-06)
