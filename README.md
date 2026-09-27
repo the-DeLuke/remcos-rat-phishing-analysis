@@ -134,19 +134,19 @@ Because persistence is established through two independent mechanisms (registry 
 ## 8. Supporting Evidence
 
 **Figure 1** — VirusTotal detection results for the JavaScript dropper, showing crowdsourced YARA and Sigma rule matches confirming Remcos RAT behavior.
-![VT JS Dropper](./screenshots/fig1-vt-js-dropper.png)
+![VT JS Dropper](./screenshots/fig1-vt-js-dropper.jpg)
 
 **Figure 2** — VirusTotal domain reputation for the C2 domain — 18/90 vendors flagged it as malicious/phishing.
-![VT C2 Domain](./screenshots/fig2-vt-c2-domain.png)
+![VT C2 Domain](./screenshots/fig2-vt-c2-domain.jpg)
 
 **Figure 3** — Passive DNS replication and communicating files linked to the C2 domain.
-![Passive DNS](./screenshots/fig3-passive-dns.png)
+![Passive DNS](./screenshots/fig3-passive-dns.jpg)
 
 **Figure 4** — Extended list of malicious files observed communicating with the same C2 infrastructure.
-![Communicating Files](./screenshots/fig4-communicating-files.png)
+![Communicating Files](./screenshots/fig4-communicating-files.jpg)
 
 **Figure 5** — VirusTotal relationship graph summarizing the domain's connections.
-![Relationship Graph](./screenshots/fig5-relationship-graph.png)
+![Relationship Graph](./screenshots/fig5-relationship-graph.jpg)
 
 ---
 
