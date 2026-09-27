@@ -1,0 +1,10 @@
+type,indicator
+sender_email,susanliu@beeflex.us
+payload_hosting_domain,beeflex.online
+rar_sha256,59ca745f5c6f9b9ea607edd61204810acd0afaf932764fa286cc8ee3bcedb79d
+js_dropper_sha256,aed597f019da518a072be2ed666d37176f4dc7a4534411f5ecded9022e8da173
+powershell_payload_sha256,dab9728645297b54e009e683fa670d5bf0b15aa3f69d4b9b3b53210ee9653183
+c2_domain,onboard.radiantfluxstudio.com
+c2_ip,185.14.92.102
+c2_port,443
+sibling_domain,onboarding.radiantfluxstudio.com
